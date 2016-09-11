@@ -3,7 +3,7 @@
 # Developed by Hector Cobos
 
 # This MapReduce consists on getting the hours when the students are more active on the forum.
-# The first thing we have to do is to order by hour and to obtain an array of hours like this [05,12,12,14]
+# The first thing we have to do is order by hour and obtain an array of hours like this [05,12,12,14]
 # Then we have to prepare an array of popular hours because it could be the student could have two or more
 # popular hours. Once we have the array of popular hours, we have only to print it with the associate student.
 
