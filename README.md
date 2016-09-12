@@ -5,4 +5,4 @@ Exercises of Introduction to Hadoop and MapReduce - Udacity. All of them have be
 
 - Students: Rush hour of the students on the forum
 - Length of answers, average
-- Top 10 Tags
+- Top 10 Tags (Both, taking into account only questions and everything)
