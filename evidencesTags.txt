@@ -1,0 +1,10 @@
+cs253	12
+cs101	12
+discussion	5
+welcome	3
+issues	3
+homework	3
+nationalities	2
+meta	2
+lessons	2
+jobs	2
